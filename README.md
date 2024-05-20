@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jayavani Akkiraju</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer | ML Enthusiast </h3>
 
 - 🌱 I’m a graduate with a Master's degree in Computer Science. 
 
